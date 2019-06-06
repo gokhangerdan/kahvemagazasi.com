@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap');
+
+h1, p {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+#mobilehide { 
+display:block; 
+}
+@media screen and (max-width: 500px) {
+#mobilehide { 
+display:none; }
+}
