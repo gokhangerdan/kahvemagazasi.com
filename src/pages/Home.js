@@ -63,7 +63,7 @@ function Home() {
       <ProfileNavPopper />
       <div className={classes.root}>
         <img id='mobilehide' className={classes.heroImage} width={75} height={100} alt='' src='https://i.pinimg.com/originals/1e/27/09/1e2709b9ab3be00ada0bb38e3b723bb9.png'></img>
-        <h1 className={classes.heroHeader}>Kahve Mağazası</h1>
+        <h1 className={classes.heroHeader}>Kahve Çekirdeği Mağazası</h1>
         <p className={classes.heroCaption}><strong style={{color: '#29B6F6'}}>React.js</strong> & <strong style={{color: '#FF7043'}}>MaterialUI</strong> ile yapılmış bir e-ticaret sitesi teması.</p>
         <SearchBar />
       </div>
